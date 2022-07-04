@@ -59,7 +59,7 @@ section{
     font-size: 3.5vw;
 }
 
-section > p{
+section.paragrafo > p{
     padding-bottom: 2em;
 }
 
